@@ -20,7 +20,7 @@ let cats = [{
 
 
 // This code is LAME and does not fit the cool
-// cat aesthetic. Rewrite it to use a "for..in"
+// cat aesthetic. Rewrite it to use a for each
 // loop to render our cool cats to the DOM
 let newCat = document.createElement('div');
 newCat.innerHTML = renderCat(cats[0]);

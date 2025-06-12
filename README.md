@@ -1,19 +1,25 @@
-# Cool Cats Inc
-### Instructions
-Make some cool cats. The cooler the better. Use the starter code and add more cats to expand the list of cats shown.
+# 🐾 Cool Cats Inc
 
-**Each cat must**
+## Instructions
 
-- Have a profile pic
-- Have a name
-- Have an age
+Create a collection of cool cats using the starter code. Expand the list by adding more cats—make them as cool as possible!
 
-Follow the instructions in the comments to complete the exercise 
+### Each Cat Must Have:
+- 🖼️ A profile picture  
+- 🐱 A name  
+- 🎂 An age  
 
-**Bonus**
-Are there any other properties you can add to help the cats be even cooler?
+Follow the instructions in the code comments to complete the exercise.
 
+---
 
-Make the list includes five cool cats total when you're done
+### Bonus Challenge
+Can you think of other properties to make your cats even cooler? Add them!
 
-**No dogs allowed!!!!!** (they scare the cats)
+---
+
+**Goal:**  
+Your final list should include **five cool cats**.
+
+> **Note:**  
+> _No dogs allowed!_ (They scare the cats.)

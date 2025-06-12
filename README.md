@@ -21,5 +21,8 @@ Can you think of other properties to make your cats even cooler? Add them!
 **Goal:**  
 Your final list should include **five cool cats**.
 
-> **Note:**  
-> _No dogs allowed!_ (They scare the cats.)
+---
+
+> ⚠️ **VERY IMPORTANT NOTE:**  
+> **_No dogs allowed!_**  
+> <span style="color:red; font-weight:bold;">Dogs scare the cats. </span>
